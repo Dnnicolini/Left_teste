@@ -12,4 +12,6 @@
 <li> 2.NPM install</li>
 <li> 3.Create a .env and generate key</li>
 
+
+<h2> LINK PARA O BD https://drive.google.com/file/d/1uu00jS0iTH5imRdiJAFyKTchwWW7NM0O/view?usp=sharing </h2>
 </ul>
